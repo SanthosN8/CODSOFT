@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Management {
+public class SManagement {
 
     public static void main(String[] args){
         Scanner obj = new Scanner(System.in);
